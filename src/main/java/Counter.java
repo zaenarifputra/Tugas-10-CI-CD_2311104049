@@ -1,4 +1,3 @@
-
 public final class Counter {
 
 	private int count;
