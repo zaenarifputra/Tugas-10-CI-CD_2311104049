@@ -34,5 +34,4 @@ public class CounterTest {
 			assertEquals(testCounter.getCount(), i);
 		}
 	}
-
 }
