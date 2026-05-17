@@ -3,11 +3,9 @@ public final class Counter {
 	public Counter() {
 		this.reset();
 	}
-		
 	public void reset() {
 		count = 0;
 	}
-	
 	public void increment() {
 		count++;
 	}
