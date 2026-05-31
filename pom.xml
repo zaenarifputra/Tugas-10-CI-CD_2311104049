@@ -7,7 +7,6 @@
 <dependencies>
   <dependency>
     <groupId>junit</groupId>
-    <artifactId>junit</artifactId>https://github.com/zaenarifputra/Tugas-10-CI-CD_2311104049/tree/main
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
 	</dependency>
 </dependencies>
